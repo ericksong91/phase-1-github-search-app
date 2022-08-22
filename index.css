@@ -11,3 +11,30 @@
 ul {
   list-style: none;
 }
+
+#user-list img {
+  height: 6rem;
+  width: auto;
+}
+
+.card {
+  text-align: center;
+  border: grey solid 1px;
+  padding: 1rem;
+  width: 15rem;
+  height: 15rem;
+  display: inline-grid;
+  margin: 2px;
+  justify-items: center;
+}
+
+.cardBig {
+  text-align: center;
+  border: grey solid 1px;
+  padding: 1rem;
+  width: 15rem;
+  height: 15rem;
+  display: inline-grid;
+  margin: 2px;
+  justify-items: center;
+}
